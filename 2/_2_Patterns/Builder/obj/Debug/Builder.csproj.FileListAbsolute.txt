@@ -1,0 +1,6 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\bin\Debug\Builder.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\bin\Debug\Builder.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\bin\Debug\Builder.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\obj\Debug\Builder.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Builder\obj\Debug\Builder.pdb

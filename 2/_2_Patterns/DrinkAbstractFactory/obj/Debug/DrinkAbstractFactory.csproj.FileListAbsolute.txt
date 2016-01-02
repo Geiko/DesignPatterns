@@ -1,0 +1,6 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\bin\Debug\DrinkAbstractFactory.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\obj\Debug\DrinkAbstractFactory.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\bin\Debug\DrinkAbstractFactory.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\bin\Debug\DrinkAbstractFactory.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\obj\Debug\DrinkAbstractFactory.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\DrinkAbstractFactory\obj\Debug\DrinkAbstractFactory.pdb

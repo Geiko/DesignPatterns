@@ -1,0 +1,5 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\WebSite\bin\Debug\WebSite.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\WebSite\bin\Debug\WebSite.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\WebSite\bin\Debug\WebSite.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\WebSite\obj\Debug\WebSite.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\WebSite\obj\Debug\WebSite.pdb

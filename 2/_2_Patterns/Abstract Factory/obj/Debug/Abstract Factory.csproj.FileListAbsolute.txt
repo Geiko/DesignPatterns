@@ -1,0 +1,6 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\obj\Debug\Abstract Factory.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\obj\Debug\Abstract Factory.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\2\_2_Patterns\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache

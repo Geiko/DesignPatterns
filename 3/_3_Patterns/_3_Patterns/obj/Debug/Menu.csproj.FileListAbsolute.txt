@@ -1,0 +1,6 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\bin\Debug\_3_Patterns.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\bin\Debug\_3_Patterns.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\bin\Debug\_3_Patterns.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\obj\Debug\_3_Patterns.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\3\_3_Patterns\_3_Patterns\obj\Debug\_3_Patterns.pdb

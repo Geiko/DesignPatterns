@@ -1,0 +1,6 @@
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\bin\Debug\_1_SingletonUser.exe.config
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\bin\Debug\_1_SingletonUser.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\bin\Debug\_1_SingletonUser.pdb
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\obj\Debug\_1_SingletonUser.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\obj\Debug\_1_SingletonUser.exe
+D:\My\IT\STEP\14 Design Patterns\Home Work\1\_1_SingletonUser\_1_SingletonUser\obj\Debug\_1_SingletonUser.pdb
